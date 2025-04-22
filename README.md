@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-This guide covers the essential topics you need to master for a **Next.js technical interview**, assuming you already know **React.js**. You'll learn **routing, data fetching, API handling, performance optimizations, and deployment** strategies in Next.js.
+This project covers the essential topics needed to master on **Next.js**, assuming I already know **React.js**. Contemplate **routing, data fetching, API handling, performance optimizations, and deployment** strategies in Next.js.
 
 ---
 
